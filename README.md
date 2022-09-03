@@ -1,4 +1,4 @@
-# C++ Matrix Calc with win32api
+# C Matrix Calc with win32api
 
 This app is a matrix calculator, that uses win32api to show window and widgets. Logically, it is made for Windows. I did it for a subject, but it has some interesting features that would help you with understanding of win32api GUI.
 
